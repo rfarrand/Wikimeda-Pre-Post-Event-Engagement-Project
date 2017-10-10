@@ -1,4 +1,4 @@
-# Wikimeda-Pre-Post-Event-Engagement-Project
+# Wikimeda-Pre-&-Post-Event-Engagement-Project
 Hello!
 Welcome to the README for the Pre and Post Event Engagement fro the Mozilla Open Leaders Program. I am Rachel, Events Program Manager from the Wikimedia Foundation.
 
